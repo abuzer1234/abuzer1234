@@ -11,16 +11,18 @@
 // this is the three-line graphics programming example for beginners  (graphics programming only in 3 lines!)  
 // it can be turned to an image viewer easily
 // requires Turbo C++ to compile
+// windows doesn't let you to assign values to the content of pointers, so it won't run on windows - only on MS-DOS
+// this code is public domain
 
 #include <iostream.h>
 
 void main(){
-char *pc;
-pc =  (char *) 0xb8000000;
-*pc = 64;
+char *pc;                                  // define a pointer to char
+pc =  (char *) 0xb8000000;                 // the pointer points to the beginning address of video buffer in RAM
+*pc = 64;                                  // the character at the top left corner of the screen turns to @
 
 int i;
-std::cin   >>    i; 
+std::cin >> i; 
 }
 
 
