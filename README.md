@@ -5,6 +5,26 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+
+
+
+// this is the three-line graphics programming example for beginners  (graphics programming only in 3 lines!)  
+// it can be turned to an image viewer easily
+// requires Turbo C++ to compile
+
+#include <iostream.h>
+
+void main(){
+char *pc;
+pc =  (char *) 0xb8000000;
+*pc = 64;
+
+int i;
+std::cin   >>    i; 
+}
+
+
+
 <!---
 abuzer1234/abuzer1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
