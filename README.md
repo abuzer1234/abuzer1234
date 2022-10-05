@@ -17,13 +17,14 @@
 #include <iostream.h>
 
 void main(){
-char *pc;                                  // define a pointer to char
-pc =  (char *) 0xb8000000;                 // the pointer points to the beginning address of video buffer in RAM
-*pc = 64;                                  // the character at the top left corner of the screen turns to @
+char *pc;                           // define a pointer to char
+pc =  (char *) 0xb8000000;          // the pointer points to the beginning address of video buffer in RAM
+*pc = 64;                           // the character at the top left corner of the screen turns to @
 
 int i;
 std::cin >> i; 
 }
+
 
 
 
