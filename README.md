@@ -8,7 +8,7 @@
 
 - 💞️ I’m looking to collaborate on DeFi, Blockchain, Game development...   (I am betting on more than one horse, and if my efforts give 'fruit', I will change my name from Cenk Gumus to Bill Gates,jr.  - by the way, I admire Mr.Gates very much). 
 
-- 📫 How to reach me :     you can e-mail me at pikachu_p@aol.com , 
+- 📫 How to reach me :     you can e-mail me at pikachu_p@aol.com ,  text me or call me at +905548813305 (I would rather choose to be text on this number because the sound quality on my side is very low), and 
 
 
 
@@ -37,6 +37,32 @@ std::cin >> i;
 If you have a lot of free time, then read on:
 
 I first connected the Internet in 1996 from civil engineering computer lab of M.E.T.U. .  In those days decent computers were very expensive and we could only effort a monochrome CGA 8086 "computer" (the modems were very expensive, we didn't have a second line, phone calls were very costyly, ISP fees were high,etc  - so I couldn't log-on to the Internet from the comfort of my home). I never had online presence (not even a vanilla-HTML web page), mostly because of the fact that web sites were being hacked and de-faced (and I am a nerd which has hard time sociallizing , even online).   
+
+
+my skills (for potential employers):
+
+C         (30+ years)
+C++       (20 years) (C++17)
+Java
+PHP
+XML
+UML
+XAML
+SQL
+NoSQL    (1 year)
+HTML
+CSS
+PYTHON
+WIN32 API
+VB6.0
+X86 ASSEMBLY
+EXCEL
+VBA
+BASH
+MATHEMATICA
+Qt       (1 YEAR)
+
+
 
 
 <!---
