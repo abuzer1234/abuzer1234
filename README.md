@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @abuzer1234   (cenk gumus - pikachu_p@aol.com).
             I am here to have social media presence to have a better chance of getting a coding job (I have no social media thing other than gitHub).
 
-- 👀 I’m interested in all kinds of nerd stuff, because I am 'hardcore' nerd! (and I am PROUD to be a Nerd and intelligent!!!). 
+- 👀 I’m interested in all kinds of nerd stuff, because I am 'hardcore' nerd! (and I am PROUD to be a Nerd and intelligent!!!) (I can't call
+          my-self a 'geek', because I am  socially-cripled.)
 
 - 🌱 I’m currently learning Blockchain and DeFi.
 - 💞️ I’m looking to collaborate on ...
