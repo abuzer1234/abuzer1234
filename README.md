@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning Blockchain and DeFi.
 
-- 💞️ I’m looking to collaborate on DeFi, Blockchain, Game development...   (I am betting on more than one horse, and if my efforts give 'fruit', I will     
-        change my name from Cenk Gumus to Bill Gates,jr.  - by the way, I admire Mr.Gates very much). 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on DeFi, Blockchain, Game development...   (I am betting on more than one horse, and if my efforts give 'fruit', I will change my name from Cenk Gumus to Bill Gates,jr.  - by the way, I admire Mr.Gates very much). 
+
+- 📫 How to reach me :     you can e-mail me at pikachu_p@aol.com , 
 
 
 
