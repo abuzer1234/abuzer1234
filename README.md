@@ -36,7 +36,12 @@ cin >> i;
 }
 
 // If you want to manipulate pixels instead of changing characters on the screen, you have to add these lines: 
-// 
+// #include <DOS.h>             // this line is necessary to be able to call int86() function
+//
+//  union REGS in, out;
+//  in.h.ah = 0;
+//  in.h.al = 0x0d;            //   this values (hexadecimal 0x0d) is for EGA mode
+//  int86(0x10, &in, &out);    //   calls the MS-DOS interrupt 0x10  which changes the graphics mode to EGA
 // 
 
 
