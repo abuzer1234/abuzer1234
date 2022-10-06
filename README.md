@@ -8,7 +8,8 @@
 
 - 💞️ I’m looking to collaborate on DeFi, Blockchain, Game development...   (I am betting on more than one horse, and if my efforts give 'fruit', I will change my name from Cenk Gumus to Bill Gates,jr.  - by the way, I admire Mr.Gates very much). 
 
-- 📫 How to reach me :     you can e-mail me at pikachu_p@aol.com ,  text me or call me at +905548813305 (I would rather choose to be text on this number because the sound quality on my side is very low), and 
+- 📫 How to reach me :     you can e-mail me at pikachu_p@aol.com ,  text me or call me at +905548813305 (I would rather choose to be text on this number because the sound quality on my side is very low), and    whatsapp: +905449086486  (I would check this when it is about 10:00 am in New York).
+
 
 
 
@@ -43,6 +44,8 @@ cin >> i;
 //  in.h.al = 0x0d;            //   this values (hexadecimal 0x0d) is for EGA mode
 //  int86(0x10, &in, &out);    //   calls the MS-DOS interrupt 0x10  which changes the graphics mode to EGA
 // 
+// 
+//  
 
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
