@@ -12,6 +12,7 @@
 
 
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 // this is the three-line graphics programming example for beginners  (graphics programming only in 3 lines!)  
 // it can be turned to an image viewer easily
@@ -22,6 +23,7 @@
 #include <iostream.h>
 
 void main(){
+
 char *pc;                           // define a pointer to char
 pc =  (char *) 0xb8000000;          // the pointer points to the beginning address of video buffer in RAM
 *pc = 64;                           // the character at the top left corner of the screen turns to @
@@ -30,7 +32,11 @@ int i;
 std::cin >> i; 
 }
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+If you have a lot of free time, then read on:
+
+I first connected the Internet in 1996 from civil engineering computer lab of M.E.T.U. .  In those days decent computers were very expensive and we could only effort a monochrome CGA 8086 "computer". I never had online presence (not even a vanilla-HTML web page), mostly because of the fact that web sites were being hacked and de-faced (and I am a nerd which has hard time sociallizing , even online).  
 
 
 <!---
