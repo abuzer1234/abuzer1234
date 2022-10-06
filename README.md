@@ -36,7 +36,7 @@ std::cin >> i;
 
 If you have a lot of free time, then read on:
 
-I first connected the Internet in 1996 from civil engineering computer lab of M.E.T.U. .  In those days decent computers were very expensive and we could only effort a monochrome CGA 8086 "computer". I never had online presence (not even a vanilla-HTML web page), mostly because of the fact that web sites were being hacked and de-faced (and I am a nerd which has hard time sociallizing , even online).  
+I first connected the Internet in 1996 from civil engineering computer lab of M.E.T.U. .  In those days decent computers were very expensive and we could only effort a monochrome CGA 8086 "computer" (the modems were very expensive, we didn't have a second line, phone calls were very costyly, ISP fees were high,etc  - so I couldn't log-on to the Internet from the comfort of my home). I never had online presence (not even a vanilla-HTML web page), mostly because of the fact that web sites were being hacked and de-faced (and I am a nerd which has hard time sociallizing , even online).   
 
 
 <!---
