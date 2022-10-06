@@ -17,23 +17,27 @@
 // this is the three-line graphics programming example for beginners  (graphics programming only in 3 lines!)  
 // it can be turned to an image viewer easily
 // requires Turbo C++ to compile
+// you have to select at least the 'Large' memory model on Turbo C++ if you want to run this code
 // windows doesn't let you to assign values to the content of pointers, so it won't run on windows - only on MS-DOS
 // this code is public domain
+// Notes:
+// Turbo C++ doesn't accept the expression:      using namespace std;
 
 #include <iostream.h>
 
 void main(){
 
 char *pc;                           // define a pointer to char
-pc =  (char *) 0xb8000000;          // the pointer points to the beginning address of video buffer in RAM
+pc =  (char *) 0xb8000000;          // the pointer points to the beginning address of video buffer in RAM (this value is for color screens).
 *pc = 64;                           // the character at the top left corner of the screen turns to @
 
 int i;
-std::cin >> i; 
+cin >> i; 
 }
 
-// If you want to manipulate pixels instead of changing characters, you have to add 
-
+// If you want to manipulate pixels instead of changing characters on the screen, you have to add these lines: 
+// 
+// 
 
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
