@@ -52,17 +52,13 @@ cin >> i;
 // So, where from here? To go further in graphics programming you may:
 //            1) study WIN32 API programming with recent tutorials (old books' codes' may not compile/run on windows 7/10/11 - some lines of the code may
 //                have to be modified).
-//            2) 
+//            2) study 2D Open GL programming and pixel manipulation 
+//            3) learn about the 3D geometry
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 If you have a lot of free time, then read on:
 
 I first connected the Internet in 1996 from civil engineering computer lab of M.E.T.U. .  In those days decent computers were very expensive and we could only effort a monochrome CGA 8086 "computer" (the modems were very expensive, we didn't have a second line, phone calls were very costyly, ISP fees were high,etc  - so I couldn't log-on to the Internet from the comfort of my home). I never had online presence (not even a vanilla-HTML web page), mostly because of the fact that web sites were being hacked and de-faced (and I am a nerd which has hard time sociallizing , even online).   
-
-
-
-
-
 
 
 
