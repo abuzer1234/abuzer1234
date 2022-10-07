@@ -49,7 +49,8 @@ cin >> i;
 // To change the color of top-left-most pixel, we assign the memory location 0xb800000 an arbirarily chosen value (as the value assigned to that specific memory location changes, the color of the pixel also changes). To change the color of the pixel next to the top-left-most pixel, you change the value of the of the value at the memory location 0xb80000001 (hexadecimal). And to change the color of the pixel to the right of it, you change the value of the address 0xb80000002 and so on...
 
 
-// So, where from here? 
+// So, where from here? To go further in graphics programming you may:
+//            1)  
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 If you have a lot of free time, then read on:
