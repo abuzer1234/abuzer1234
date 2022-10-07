@@ -20,7 +20,7 @@
 // requires Turbo C++ to compile
 // you have to select at least the 'Large' memory model on Turbo C++ if you want to run this code
 // windows doesn't let you to assign values to the content of pointers, so it won't run on windows - only on MS-DOS
-// this code is public domain
+// this code is public domain (even the windows 2000 programming stuff is worthless now and this is much much older DOS stuff.)
 // Notes:
 // Turbo C++ doesn't accept the expression:      using namespace std;
 
@@ -36,18 +36,19 @@ int i;
 cin >> i; 
 }
 
+
 // If you want to manipulate pixels instead of changing characters on the screen, you have to add these lines: 
 // #include <DOS.h>             // this line is necessary to be able to call int86() function
 //
 //  union REGS in, out;
 //  in.h.ah = 0;
-//  in.h.al = 0x0d;            //   this values (hexadecimal 0x0d) is for EGA mode
+//  in.h.al = 0x0d;            //this values (hexadecimal 0x0d) is for EGA mode (you may try to change this value to 0x13 to change the screen mode to VGA) 
 //  int86(0x10, &in, &out);    //   calls the MS-DOS interrupt 0x10  which changes the graphics mode to EGA
 // 
 // 
-//  
+// To change the color of top-left-most pixel, we assign the memory location 0xb800000 an arbirarly chosen value     . To change the color of the pixel next to the top-left-most pixel, you change the value of the 
 
-
+// So, where from here? 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 If you have a lot of free time, then read on:
