@@ -30,7 +30,7 @@ void main(){
 
 char *pc;                           // define a pointer to char
 pc =  (char *) 0xb8000000;          // the pointer points to the beginning address of video buffer in RAM (this value is for color screens).
-*pc = 64;                           // the character at the top left corner of the screen turns to @
+*pc = 64;                           // the character at the top left corner of the screen turns to @  ( which has the ASCII code decimal 64) 
 
 int i;
 cin >> i; 
@@ -46,7 +46,7 @@ cin >> i;
 //  int86(0x10, &in, &out);    //   calls the MS-DOS interrupt 0x10  which changes the graphics mode to EGA
 // 
 // 
-// To change the color of top-left-most pixel, we assign the memory location 0xb800000 an arbirarly chosen value     . To change the color of the pixel next to the top-left-most pixel, you change the value of the 
+// To change the color of top-left-most pixel, we assign the memory location 0xb800000 an arbirarly chosen value . To change the color of the pixel next to the top-left-most pixel, you change the value of the 
 
 // So, where from here? 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
