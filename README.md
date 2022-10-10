@@ -60,6 +60,19 @@ cin >> i;
 //                have to be modified).
 //            2) study 2D Open GL programming and pixel manipulation 
 //            3) learn about the 3D geometry and programming
+//
+//
+//
+//
+//
+//
+//
+//  ***************** BONUS ******************* BONUS ************************ BONUS ******************** BONUS **********************
+//  
+//
+//
+//
+//
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 If you have a lot of free time, then read on:
