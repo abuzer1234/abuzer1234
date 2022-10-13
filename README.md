@@ -68,9 +68,9 @@ cin >> i;
 //
 //
 //  ***************** BONUS ******************* BONUS ************************ BONUS ******************** BONUS **********************
-//   WINDOWS MACHINE-CODE PROGRAMMING EXAMPLE: 
+//   WINDOWS MACHINE-CODE PROGRAMMING EXAMPLE:     (if you don't do exactly what I say, you won't be able to get the expected results)
 //   
-//
+//  1- 
 //
 //
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
